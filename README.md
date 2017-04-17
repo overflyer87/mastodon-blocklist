@@ -1,6 +1,8 @@
 # mastodon-blocklist
 My mastodon-blocklist
 
+Blocks: 431 users
+
 First focused on loli posting users!
 Expanded to only Japanese posting users.
 
